@@ -40,3 +40,7 @@ Available Controls inside Sorting Visualizer:-
 - Sample 2 (Merge Sort)
 
 ![](/example2.gif)
+
+- Sample 3 (Bubble Sort)
+
+  ![](/example3.gif)
